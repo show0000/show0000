@@ -4,7 +4,7 @@
 </p>
 
 <p>
-<h4"><samp> 
+<h4><samp> 
 👋🏾  Hi there! I'm a software developer.<br/>
 I have experience 4 years of spring backend development, 2 years of AI(computer vision) researcher , 6+ years of DBA.<br/>
 I recently have been developing Digital-Twin backend system of automobile industry with Spring Boot + AKKA + gRPC.<br/>
